@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <span>
-     <a href="https://instagram.com/max.aranda05"> 
+     <a href="https://instagram.com/maxaranda_l"> 
           <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> 
      </a>
      </a>
